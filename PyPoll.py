@@ -4,6 +4,7 @@
 # 3. The percentage of votes each candidate won
 # 4. The total number of votes each candidate won
 # 5. The winner of the election based on popular vote
+# 6. THIS NEEDS TO WORK
 
 file_to_load = 'Resources/election_results.csv'
 election_data = open(file_to_load, 'r')
