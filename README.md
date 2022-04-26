@@ -1,7 +1,6 @@
 # Analysis of the Election Audit
 
 ## 1) Overview of Election Audit:
-> Explain the purpose of this election audit analysis:
 
 A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
 
@@ -68,5 +67,5 @@ In this project, our final Python script will need to be able to deliver the fol
 * I would propse this code be source code for all future elections moving forward. With little modification a number of data can be extracted. 
 * For example, turning this code into a usable script for a federl election one would need only to adjustt the county list and county dictionary from `county_options=[]` and `county_votes={}` to `state_options=[]` and `state_votes={}`. This change would then repeat throughout the scrpipt. 
 
-* Script can also be added to dive into a specifice county or state in the future by adding a for loop and having it print the desired locations results, such as total voters. Using a similar loop that we did to retrieve all the county votes and the `.get()`  function we could use an `.input()` function for a specific location.
+* Script can also be modified to pull in other CSV files to determine if a bill was passed or a law that was voted on was voted in favor for or not. In this way the vote counter would work the same however we would have to change and modify the lists and dictionariies. 
 
