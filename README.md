@@ -1,6 +1,6 @@
 ![PyPoll_Terminal](https://github.com/vvinci21/Election_Analysis/blob/b03a68d7797eb7bd63fba99c7987e41d3994e02e/Resources/PyPoll_Terminal_SS%202.png)
 
-
+![PyPoll Text Print Out](https://github.com/vvinci21/Election_Analysis/blob/fa7d3dcc72d84652634abd25773dea2cd9cc11ed/Resources/election_analysis_txt.SS%202.png)
 # Election_Analysis
 
 Deliverable 3: Written Analysis of the Election Audit (20 points)
