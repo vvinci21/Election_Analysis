@@ -1,4 +1,4 @@
-![PyPoll_Terminal](/Resources/PyPoll_Terminal_SS 2.png)
+![PyPoll_Terminal](https://github.com/vvinci21/Election_Analysis/blob/b03a68d7797eb7bd63fba99c7987e41d3994e02e/Resources/PyPoll_Terminal_SS%202.png)
 
 
 # Election_Analysis
