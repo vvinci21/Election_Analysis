@@ -64,3 +64,9 @@ In this project, our final Python script will need to be able to deliver the fol
 ![PyPoll Text Print Out](https://github.com/vvinci21/Election_Analysis/blob/c400b18d85f6774a3750e5cc93cb91922dcd4234/Resources/election_txt%202.png)
 
 ## 2) Election-Audit Summary:
+
+* I would propse this code be source code for all future elections moving forward. With little modification a number of data can be extracted. 
+* For example, turning this code into a usable script for a federl election one would need only to adjustt the county list and county dictionary from `county_options=[]` and `county_votes={}` to `state_options=[]` and `state_votes={}`. This change would then repeat throughout the scrpipt. 
+
+* Script can also be added to dive into a specifice county or state in the future by adding a for loop and having it print the desired locations results, such as total voters. Using a similar loop that we did to retrieve all the county votes and the `.get()`  function we could use an `.input()` function for a specific location.
+
