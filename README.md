@@ -1,25 +1,6 @@
-![PyPoll_Terminal](https://github.com/vvinci21/Election_Analysis/blob/b03a68d7797eb7bd63fba99c7987e41d3994e02e/Resources/PyPoll_Terminal_SS%202.png)
+# Analysis of the Election Audit
 
-![PyPoll Text Print Out](https://github.com/vvinci21/Election_Analysis/blob/c400b18d85f6774a3750e5cc93cb91922dcd4234/Resources/election_txt%202.png)
-# Election_Analysis
-
-Deliverable 3: Written Analysis of the Election Audit (20 points)
-Deliverable 3 Instructions
-Use your repository README to write your analysis of Deliverables 1 and 2. The analysis should contain the following:
-
-##Overview of Election Audit: Explain the purpose of this election audit analysis.
-
-###Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-* How many votes were cast in this congressional election?
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-* Which county had the largest number of votes?
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-* Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
-## Deliverable 3: Analysis of the Election Audit
-### 1) Overview of Election Audit:
+## 1) Overview of Election Audit:
 > Explain the purpose of this election audit analysis:
 
 A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
@@ -41,7 +22,7 @@ In this project, our final Python script will need to be able to deliver the fol
 * The winner of the election based on popular vote
 
 
-### 2) Election-Audit Results:
+## 2) Election-Audit Results:
 > Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 * How many votes were cast in this congressional election?
@@ -71,3 +52,15 @@ In this project, our final Python script will need to be able to deliver the fol
 > - **Diana DeGette** won the election, with a total votes of **272,892**
 > - In addition, **Diana DeGette** has the total percentage votes of `73.8%`  
 > - **Diana DeGette** is the Winner.
+
+* The information above was collected through using Python code to manipulate and analyze our data source: `election.csv`
+
+* After running the code the terminal looks as follows:
+
+![PyPoll_Terminal](https://github.com/vvinci21/Election_Analysis/blob/b03a68d7797eb7bd63fba99c7987e41d3994e02e/Resources/PyPoll_Terminal_SS%202.png)
+
+* This information is then written and saved to the `election_results.txt` file. Below is a screen shot of the file.
+
+![PyPoll Text Print Out](https://github.com/vvinci21/Election_Analysis/blob/c400b18d85f6774a3750e5cc93cb91922dcd4234/Resources/election_txt%202.png)
+
+## 2) Election-Audit Summary:
